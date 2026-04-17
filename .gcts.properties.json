@@ -1,0 +1,12 @@
+{
+  "name": "zevent_ref_btp",
+  "version": "1.0.0",
+  "description": "ZEVENT_REF_BTP",
+  "repositoryLayout": {
+    "format": "json",
+    "formatVersion": "6",
+    "keepClient": "false",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true"
+  }
+}
