@@ -1,0 +1,50 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZCL_EVENT_GEN_TEST_DATA=======CCAU.abap",
+   "fingerprint":"IIFZRbbIR/XgA+hdLralr4dC3xoRybUqX39QOhnjl9uglZejyDghtcJHI3eaEC+/G3+Mgd9BbSIMemfePXIATA=="
+  },
+  {
+   "name":"CINC ZCL_EVENT_GEN_TEST_DATA=======CCDEF.abap",
+   "fingerprint":"m4dV7+Oa2tl0/3yRUdmZt4zysZOzdv5NJMPULEqH9QbD4Tek6hGmNG36XzkjJAvslWQtLmMaZBCEGfBGn/fUwA=="
+  },
+  {
+   "name":"CINC ZCL_EVENT_GEN_TEST_DATA=======CCIMP.abap",
+   "fingerprint":"C/VKlpm3yUCHcO0orhe1ciN6gaRGjOccsZP5Tr3/03Kehu6J5HGCW8Wz88eL1MHoXelqWEVyVvn4IiETKQB3LQ=="
+  },
+  {
+   "name":"CINC ZCL_EVENT_GEN_TEST_DATA=======CCMAC.abap",
+   "fingerprint":"aDc5vHjoEFh3oQOTzQSlVgEpqc1n77xU1q3UMS0OrKu5LQmOGxNtUNS3CO/qwH8S1qxA+gG2TnuxTEfg3eZ30g=="
+  },
+  {
+   "name":"CLAS ZCL_EVENT_GEN_TEST_DATA.asx.json",
+   "fingerprint":"Xb+5Dauk3cvrceMTTlDsiNpGSdajOJOvALJEv1y1XHatEc+89OyPLXKMdBro/hVAGI4B95r5PPOo9tVW3Mq3iA=="
+  },
+  {
+   "name":"CLSD ZCL_EVENT_GEN_TEST_DATA.abap",
+   "fingerprint":"e1vJO+57g+RGnkcv4TH0Hi/w7lQlu9B47Z8/946Ci0WYLsKgGpz1uDkYr4YJXgPY1xit4Glf2Yz6CcCXV07+Zw=="
+  },
+  {
+   "name":"CPRI ZCL_EVENT_GEN_TEST_DATA.abap",
+   "fingerprint":"k8WDsXacyu+WeTSm6HGNtZwYYZyYcehcBuQUSIufmInnUphICMxvatPYQtXsrB2dTS5C0S3/DT9KJIpVkIFWnw=="
+  },
+  {
+   "name":"CPRO ZCL_EVENT_GEN_TEST_DATA.abap",
+   "fingerprint":"vtjiQiz5CN3nwMQCTo4p9rOdDsUDPOTyyhkGNixoiFbloUVE+ZatnQZsfWBN3bpKwhUx24mysRgpb9AH2egDDg=="
+  },
+  {
+   "name":"CPUB ZCL_EVENT_GEN_TEST_DATA.abap",
+   "fingerprint":"Y2GRwjVdDWtgZHORVyuOydO3H6hDzH2nOGpY7YpP60qeBy282bUb+XljITvJ5bNKdxJQ4YvPpwGVT7w+HxflJw=="
+  },
+  {
+   "name":"METH IF_OO_ADT_CLASSRUN~MAIN.abap",
+   "fingerprint":"KiPJ7pPl0Zt/g3OHEmWxXJFUpzGrhomrEI9hf9x59bzoYqvBkkgY+MQQnjyqSalEoVZFViVajAGIDeW2g9HTmw=="
+  },
+  {
+   "name":"REPS ZCL_EVENT_GEN_TEST_DATA=======CT.abap",
+   "fingerprint":"+qYVJ2/1G2Ah6onP5lNDfHc32ceR7nt+kRoK+E/yENFyquNM0aT3ViWQUT1ASllwnVsnu4jhzORI18FQgsFhBw=="
+  }
+ ],
+ "fingerprintAll":"3w9d8aq2LGK/Bgzw7GnXMjozgU3Ort6l0xhbvGf3v0c3gyO75v2LgNe+I6ObM9WKoZTOe/lCx3mm0WpbZ0icVQ=="
+}
