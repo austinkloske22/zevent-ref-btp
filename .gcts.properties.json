@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "ZEVENT_REF_BTP",
   "repositoryLayout": {
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/DA9F605C3E521FE18ED286569B814A88_0",
     "format": "json",
     "formatVersion": "6",
     "keepClient": "false",
